@@ -33,7 +33,7 @@ Program ini membaca file `transactions.csv` dengan kolom minimal:
 Jalankan aplikasi:
 
 Bash
-streamlit run app.py
+streamlit run transactions.py
 Developed as part of a Data Science & Statistics Portfolio.
 
 
