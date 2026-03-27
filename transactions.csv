@@ -1,0 +1,156 @@
+﻿Transaction_ID,Date,Customer_ID,Transaction_Type,Amount,Category,Merchant_Name,Payment_Method,Account_Balance_Before,Processing_Time_Seconds
+TXN1000,4/27/2023,CUST108,Debit,599.34,Groceries,Amazon,Cash,3928.47,2.33
+TXN1001,7/15/2023,CUST175,Credit,472.35,Travel,Apple Store,Bank Transfer,7798.66,3.38
+TXN1002,4/12/2023,CUST161,Credit,629.54,Entertainment,Supermarket,Bank Transfer,5710.75,3.16
+TXN1003,9/16/2023,CUST141,Debit,804.61,Travel,Pharmacy,Debit Card,3213.04,3.15
+TXN1004,10/5/2023,CUST167,Debit,453.17,Electronics,Apple Store,E-wallet,5984.83,3.54
+TXN1005,12/28/2023,CUST119,Debit,453.17,Investment,Supermarket,Cash,3537.98,2.52
+TXN1006,7/6/2023,CUST110,Debit,815.84,Entertainment,Amazon,Cash,6180.63,3.05
+TXN1007,8/10/2023,CUST123,Credit,653.49,Investment,Supermarket,Cash,6737.89,2.25
+TXN1008,1/25/2023,CUST116,Credit,406.11,Entertainment,Supermarket,Debit Card,3768.98,2.76
+TXN1009,3/30/2023,CUST120,Debit,608.51,Utilities,Supermarket,Bank Transfer,6445.06,2.4
+TXN1010,2/19/2023,CUST185,Credit,407.32,Healthcare,Shell,Bank Transfer,5619.17,2.58
+TXN1011,9/6/2023,CUST109,Debit,406.85,Entertainment,Pharmacy,Cash,6233.09,2.98
+TXN1012,7/8/2023,CUST140,Credit,548.39,Healthcare,Walmart,E-wallet,7845.19,1.85
+TXN1013,7/9/2023,CUST152,Debit,117.34,Healthcare,Pharmacy,Credit Card,4631.92,4.17
+TXN1014,5/31/2023,CUST177,Credit,155.02,Dining,Apple Store,Credit Card,3869.4,1.7
+TXN1015,9/12/2023,CUST167,Debit,387.54,Dining,Pharmacy,Bank Transfer,3665.73,1.53
+TXN1016,6/8/2023,CUST154,Credit,297.43,Entertainment,Shell,E-wallet,3776.28,3.43
+TXN1017,9/27/2023,CUST167,Credit,562.85,Healthcare,Netflix,Bank Transfer,4884.35,3.13
+TXN1018,11/1/2023,CUST186,Credit,318.4,Entertainment,Apple Store,Bank Transfer,5511.73,3
+TXN1019,11/14/2023,CUST103,Credit,217.54,Investment,Amazon,Credit Card,5415.04,3
+TXN1020,12/19/2023,CUST105,Credit,793.13,Electronics,Pharmacy,E-wallet,6240.77,2.49
+TXN1021,11/28/2023,CUST121,Debit,454.84,Groceries,Apple Store,Cash,5019.5,1.78
+TXN1022,6/22/2023,CUST193,Credit,513.51,Entertainment,Walmart,Credit Card,7180.3,2.56
+TXN1023,8/5/2023,CUST168,Credit,215.05,Healthcare,Netflix,E-wallet,4603.01,1.96
+TXN1024,4/2/2023,CUST191,Credit,391.12,Groceries,Supermarket,Credit Card,9080.25,3.28
+TXN1025,8/15/2023,CUST168,Credit,522.18,Healthcare,Netflix,Cash,5938.5,2.38
+TXN1026,7/15/2023,CUST148,Debit,269.8,Electronics,Netflix,Credit Card,3714.26,1.84
+TXN1027,1/31/2023,CUST130,Credit,575.14,Travel,Local Cafe,E-wallet,3393.66,2.24
+TXN1028,6/17/2023,CUST102,Credit,379.87,Investment,Pharmacy,Bank Transfer,5723.71,2.83
+TXN1029,10/18/2023,CUST184,Credit,441.66,Utilities,Supermarket,Cash,4664.81,2.05
+TXN1030,10/12/2023,CUST195,Debit,379.66,Travel,Local Cafe,Cash,6071,1.84
+TXN1031,9/27/2023,CUST124,Credit,870.46,Groceries,Uber,Cash,5709.86,2.69
+TXN1032,2/23/2023,CUST188,Debit,497.3,Dining,Pharmacy,Credit Card,4890.76,2.7
+TXN1033,6/5/2023,CUST194,Credit,288.46,Entertainment,Local Cafe,Debit Card,3729.81,2.09
+TXN1034,12/29/2023,CUST189,Debit,664.51,Groceries,Stock Exchange,Debit Card,2727.73,2.12
+TXN1035,8/14/2023,CUST181,Credit,255.83,Electronics,Supermarket,E-wallet,4330.23,2.69
+TXN1036,10/28/2023,CUST122,Credit,541.77,Groceries,Stock Exchange,Credit Card,6284.6,1.34
+TXN1037,10/12/2023,CUST110,Credit,108.07,Entertainment,Uber,Credit Card,5321.14,1.37
+TXN1038,11/22/2023,CUST115,Credit,234.36,Groceries,Netflix,Credit Card,3131.39,1.93
+TXN1039,10/30/2023,CUST111,Debit,539.37,Utilities,Local Cafe,Credit Card,5259.77,2.33
+TXN1040,8/29/2023,CUST150,Debit,647.69,Utilities,Netflix,Bank Transfer,5577.98,2.75
+TXN1041,1/23/2023,CUST191,Credit,534.27,Groceries,Apple Store,Cash,3674.21,3.68
+TXN1042,2/6/2023,CUST126,Debit,476.87,Investment,Netflix,Credit Card,5230.59,3.19
+TXN1043,9/10/2023,CUST106,Credit,439.78,Electronics,Stock Exchange,Bank Transfer,5087.31,2.37
+TXN1044,2/25/2023,CUST118,Debit,204.3,Dining,Supermarket,Cash,3285.54,2.48
+TXN1045,5/7/2023,CUST118,Credit,356.03,Electronics,Local Cafe,Debit Card,5536.68,1.7
+TXN1046,3/17/2023,CUST155,Debit,407.87,Dining,Pharmacy,E-wallet,5841.18,2.49
+TXN1047,2/23/2023,CUST102,Debit,711.42,Healthcare,Local Cafe,Cash,6624.58,2.27
+TXN1048,1/16/2023,CUST162,Credit,568.72,Dining,Local Cafe,Credit Card,6580.7,2.76
+TXN1049,8/25/2023,CUST171,Debit,147.39,Groceries,Local Cafe,Credit Card,2933.5,1.84
+TXN1050,12/26/2023,CUST115,Debit,564.82,Healthcare,Local Cafe,E-wallet,3593.26,2.92
+TXN1051,10/7/2023,CUST147,Debit,422.98,Investment,Netflix,Cash,5772.55,3.73
+TXN1052,3/5/2023,CUST186,Debit,364.62,Electronics,Apple Store,Credit Card,5770.68,2.41
+TXN1053,3/19/2023,CUST123,Debit,622.34,Groceries,Local Cafe,E-wallet,5772.57,2.82
+TXN1054,12/15/2023,CUST167,Credit,706.2,Entertainment,Walmart,Debit Card,10779.1,3.05
+TXN1055,9/18/2023,CUST184,Debit,686.26,Entertainment,Stock Exchange,Cash,5856.34,2.18
+TXN1056,3/22/2023,CUST163,Debit,332.16,Groceries,Netflix,Credit Card,6703.35,2.68
+TXN1057,3/28/2023,CUST184,Credit,438.16,Electronics,Supermarket,Cash,6431,2.51
+TXN1058,10/30/2023,CUST151,Debit,566.25,Utilities,Uber,Debit Card,5977.09,2.58
+TXN1059,7/6/2023,CUST138,Debit,695.11,Electronics,Stock Exchange,E-wallet,4527.1,1.88
+TXN1060,3/8/2023,CUST131,Credit,404.17,Entertainment,Apple Store,Bank Transfer,6138.45,2.52
+TXN1061,10/1/2023,CUST160,Credit,462.87,Electronics,Amazon,Cash,3840.76,2.9
+TXN1062,8/1/2023,CUST192,Debit,278.73,Groceries,Shell,Bank Transfer,4644.77,3.66
+TXN1063,12/7/2023,CUST163,Debit,260.76,Dining,Uber,Credit Card,4271.95,3.27
+TXN1064,8/16/2023,CUST178,Debit,662.51,Utilities,Uber,E-wallet,5122.81,4.22
+TXN1065,4/9/2023,CUST132,Credit,771.25,Dining,Local Cafe,Cash,8471.99,1.89
+TXN1066,10/2/2023,CUST120,Debit,485.6,Healthcare,Walmart,Credit Card,2199.1,3.2
+TXN1067,12/24/2023,CUST180,Credit,700.71,Investment,Shell,E-wallet,6029.39,2.65
+TXN1068,3/18/2023,CUST118,Debit,572.33,Entertainment,Amazon,Cash,2580.93,4.25
+TXN1069,1/22/2023,CUST149,Credit,370.98,Groceries,Apple Store,Cash,4292.1,1.85
+TXN1070,1/20/2023,CUST110,Credit,572.28,Travel,Uber,E-wallet,6633.43,1.83
+TXN1071,12/16/2023,CUST166,Debit,807.61,Groceries,Supermarket,Bank Transfer,5096.42,2.02
+TXN1072,10/15/2023,CUST172,Credit,492.83,Healthcare,Amazon,Debit Card,3383.38,0.8
+TXN1073,12/22/2023,CUST150,Credit,812.93,Utilities,Shell,Credit Card,3927.04,2.08
+TXN1074,9/13/2023,CUST183,Debit,10,Entertainment,Pharmacy,E-wallet,6019.4,1.89
+TXN1075,9/29/2023,CUST119,Debit,664.38,Investment,Shell,Credit Card,3904.45,2.62
+TXN1076,6/28/2023,CUST123,Credit,517.41,Entertainment,Walmart,Bank Transfer,5324.69,2.77
+TXN1077,3/19/2023,CUST148,Debit,440.2,Electronics,Stock Exchange,Credit Card,5068.36,4
+TXN1078,7/14/2023,CUST166,Debit,518.35,Electronics,Amazon,Bank Transfer,4022.6,3.26
+TXN1079,3/28/2023,CUST148,Credit,102.49,Investment,Walmart,E-wallet,8215.92,2.04
+TXN1080,5/8/2023,CUST121,Credit,456.07,Groceries,Pharmacy,Bank Transfer,5950.88,1.78
+TXN1081,9/17/2023,CUST119,Debit,571.42,Electronics,Supermarket,Debit Card,1962.29,2.89
+TXN1082,1/5/2023,CUST183,Debit,795.58,Travel,Netflix,Cash,5279.68,1.44
+TXN1083,9/5/2023,CUST175,Debit,396.35,Travel,Uber,E-wallet,4007.32,3.97
+TXN1084,2/5/2023,CUST138,Credit,338.3,Investment,Local Cafe,Debit Card,6278.65,3.44
+TXN1085,5/24/2023,CUST124,Credit,399.65,Healthcare,Uber,E-wallet,3811.22,2.12
+TXN1086,1/8/2023,CUST160,Credit,683.08,Healthcare,Netflix,Credit Card,4827.9,1.13
+TXN1087,11/3/2023,CUST131,Debit,565.75,Travel,Uber,E-wallet,5757.48,3.58
+TXN1088,2/13/2023,CUST125,Credit,394.05,Entertainment,Amazon,Cash,6298.63,2.41
+TXN1089,1/8/2023,CUST112,Debit,602.65,Travel,Local Cafe,Bank Transfer,3199.56,3.49
+TXN1090,12/26/2023,CUST190,Credit,519.42,Investment,Amazon,Credit Card,4498.25,1.22
+TXN1091,6/11/2023,CUST170,Credit,693.73,Entertainment,Walmart,Credit Card,4287.58,2.02
+TXN1092,8/2/2023,CUST195,Credit,359.59,Electronics,Netflix,Bank Transfer,4020.01,2.5
+TXN1093,1/13/2023,CUST174,Credit,434.47,Utilities,Uber,Credit Card,7648.18,2.54
+TXN1094,9/7/2023,CUST125,Credit,421.58,Entertainment,Pharmacy,E-wallet,5607.47,2.14
+TXN1095,5/6/2023,CUST197,Credit,207.3,Groceries,Supermarket,Debit Card,3108.67,3
+TXN1096,1/9/2023,CUST100,Debit,559.22,Entertainment,Netflix,E-wallet,6376.79,1.65
+TXN1097,9/11/2023,CUST169,Credit,552.21,Utilities,Pharmacy,Credit Card,8183.23,2.39
+TXN1098,6/8/2023,CUST146,Credit,501.02,Dining,Netflix,Credit Card,6548.7,2.6
+TXN1099,6/2/2023,CUST149,Debit,453.08,Groceries,Shell,Credit Card,2720.95,2.91
+TXN1100,8/11/2023,CUST122,Credit,216.93,Dining,Stock Exchange,Credit Card,4273.65,3.07
+TXN1101,4/19/2023,CUST103,Credit,415.87,Groceries,Supermarket,Cash,6900.37,1.6
+TXN1102,12/21/2023,CUST194,Debit,431.46,Dining,Stock Exchange,Debit Card,3938.5,1.27
+TXN1103,2/23/2023,CUST145,Credit,339.54,Dining,Apple Store,Credit Card,5665.73,3.52
+TXN1104,8/5/2023,CUST174,Debit,467.74,Electronics,Uber,Cash,6161.95,2.77
+TXN1105,3/5/2023,CUST175,Debit,580.81,Electronics,Netflix,Cash,3609.6,1.9
+TXN1106,9/27/2023,CUST120,Credit,877.24,Investment,Walmart,Credit Card,4910.71,3.74
+TXN1107,4/25/2023,CUST195,Credit,534.92,Dining,Amazon,Debit Card,138.1,2.59
+TXN1108,8/30/2023,CUST169,Credit,551.51,Electronics,Pharmacy,Credit Card,3463.42,3.44
+TXN1109,2/22/2023,CUST101,Credit,485.11,Dining,Walmart,Bank Transfer,4621.15,2.55
+TXN1110,9/30/2023,CUST133,Credit,116.25,Dining,Supermarket,Cash,3128.33,4.15
+TXN1111,11/26/2023,CUST138,Debit,494.7,Electronics,Walmart,Debit Card,7448.62,3.9
+TXN1112,11/3/2023,CUST164,Debit,512.05,Utilities,Shell,Bank Transfer,2854.79,2.3
+TXN1113,7/16/2023,CUST139,Debit,992.65,Dining,Local Cafe,Bank Transfer,4339.93,3.28
+TXN1114,10/3/2023,CUST199,Credit,461.53,Travel,Netflix,Debit Card,5196.11,3.02
+TXN1115,6/6/2023,CUST132,Debit,560.31,Healthcare,Stock Exchange,Cash,7161.91,3.59
+TXN1116,11/29/2023,CUST188,Credit,493.06,Groceries,Local Cafe,Bank Transfer,2846.21,1.73
+TXN1117,10/28/2023,CUST181,Credit,266.26,Electronics,Supermarket,E-wallet,6744.75,3.05
+TXN1118,8/31/2023,CUST143,Debit,728.56,Utilities,Uber,Debit Card,5015.35,3.35
+TXN1119,10/23/2023,CUST163,Debit,650.39,Dining,Shell,Debit Card,3527.74,1.09
+TXN1120,9/1/2023,CUST177,Debit,658.21,Dining,Apple Store,Debit Card,5693.16,1.55
+TXN1121,4/15/2023,CUST169,Credit,318.12,Travel,Netflix,E-wallet,5298.59,0.87
+TXN1122,7/7/2023,CUST126,Debit,780.56,Travel,Stock Exchange,Cash,4099.67,2.28
+TXN1123,10/6/2023,CUST171,Credit,219.63,Utilities,Local Cafe,Bank Transfer,5104.7,3.07
+TXN1124,7/16/2023,CUST200,Debit,617.37,Groceries,Stock Exchange,Bank Transfer,4422.03,3.7
+TXN1125,2/24/2023,CUST157,Credit,938.09,Entertainment,Amazon,Cash,5170.28,2.56
+TXN1126,10/26/2023,CUST106,Debit,301.89,Utilities,Uber,Debit Card,5993.2,3.8
+TXN1127,10/30/2023,CUST138,Debit,386.74,Groceries,Stock Exchange,Bank Transfer,7379.03,1.4
+TXN1128,3/21/2023,CUST120,Debit,519.93,Healthcare,Pharmacy,Credit Card,3143.28,1.14
+TXN1129,7/14/2023,CUST117,Debit,399.3,Entertainment,Uber,Bank Transfer,8199.55,2.46
+TXN1130,10/31/2023,CUST147,Debit,189.87,Travel,Supermarket,Credit Card,2071.87,2.81
+TXN1131,6/10/2023,CUST135,Credit,513.71,Groceries,Apple Store,Credit Card,4772.32,2.47
+TXN1132,4/29/2023,CUST106,Credit,287.54,Dining,Apple Store,Credit Card,5882.48,0.85
+TXN1133,3/11/2023,CUST148,Debit,594.72,Healthcare,Supermarket,E-wallet,5421.49,2.43
+TXN1134,11/17/2023,CUST137,Credit,316.12,Groceries,Stock Exchange,Cash,4065.95,1.46
+TXN1135,8/9/2023,CUST124,Debit,809.99,Healthcare,Shell,E-wallet,4687.82,3.04
+TXN1136,5/30/2023,CUST161,Debit,343.35,Entertainment,Uber,Cash,4260.5,2.79
+TXN1137,7/18/2023,CUST115,Credit,435.59,Utilities,Shell,E-wallet,4115.95,1.75
+TXN1138,9/4/2023,CUST170,Debit,662.7,Utilities,Stock Exchange,E-wallet,6274.4,2.09
+TXN1139,1/31/2023,CUST110,Debit,253.83,Entertainment,Uber,Cash,5535.52,1.65
+TXN1140,6/29/2023,CUST166,Credit,545.49,Groceries,Stock Exchange,E-wallet,3960.64,2.45
+TXN1141,11/3/2023,CUST190,Debit,761.43,Healthcare,Local Cafe,Credit Card,6349.4,3.26
+TXN1142,9/30/2023,CUST146,Debit,178.5,Healthcare,Apple Store,E-wallet,5460.95,1.71
+TXN1143,2/17/2023,CUST194,Debit,536.93,Entertainment,Pharmacy,Credit Card,6219.29,2.9
+TXN1144,1/19/2023,CUST172,Credit,551.98,Groceries,Stock Exchange,Credit Card,5944.44,2.08
+TXN1145,2/26/2023,CUST138,Credit,656.36,Electronics,Shell,E-wallet,3756.51,1.87
+TXN1146,10/9/2023,CUST189,Debit,252.61,Dining,Uber,Debit Card,4159.73,2.41
+TXN1147,4/21/2023,CUST151,Credit,235.91,Healthcare,Apple Store,Bank Transfer,6120.94,1.67
+TXN1148,6/14/2023,CUST113,Credit,604.39,Healthcare,Pharmacy,Bank Transfer,5915.56,2.06
+TXN1149,1/1/2024,CUST156,Debit,559.4,Travel,Amazon,Debit Card,4968.65,1.54
+TXN1150,11/30/2023,CUST100,Debit,550.1,Utilities,Supermarket,E-wallet,5175.99,4.07
+TXN1151,8/2/2023,CUST167,Credit,569.29,Healthcare,Shell,Bank Transfer,6916.5,2.53
+TXN1152,4/25/2023,CUST182,Debit,364,Utilities,Local Cafe,Debit Card,4112.64,1.94
+TXN1153,6/3/2023,CUST167,Credit,546.45,Entertainment,Stock Exchange,Debit Card,5820.65,2.67
+TXN1154,10/10/2023,CUST194,Debit,558.61,Electronics,Amazon,Cash,4696.71,2.41
